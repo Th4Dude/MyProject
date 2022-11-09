@@ -1,0 +1,72 @@
+body{
+background-image: url(background.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+background-attachment: fixed;
+}
+
+.sfondonero{
+  margin: auto;
+  width: 1290px;
+  height: 900px;
+  background: #0000007d;
+  border-radius: 5%;
+}
+
+.BloccoGenerale{
+margin: auto;
+width: 1000px;
+
+}
+
+.PrimoBlocco{
+  text-align: center;
+  padding-top: 75px;
+}
+
+.Logo{
+height: 100px;
+width: 200px;
+}
+
+div>h1{
+  color: lime;
+  font-size: 40px;
+}
+
+.SecondoBlocco{
+  border-radius: 50px;
+  background-color: lime;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20px;
+  width: 980px;
+  text-align: center;
+  padding: 15px;
+}
+
+
+.TerzoBlocco{
+color: white;
+}
+
+.Ricarica1{
+  background-color: orange;
+  border-radius: 15px;
+  width: 335px;
+  height: 25px;
+}
+
+.Ricarica2{
+  background-color: lime;
+  border-radius: 15px;
+  width: 500px;
+  height: 25px;
+}
+
+.Ricarica3{
+  background-color: red;
+  border-radius: 15px;
+  width: 200px;
+  height: 25px;
+}
